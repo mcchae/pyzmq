@@ -21,7 +21,6 @@ import sys
 import time
 
 import zmq
-import numpy
 
 def main():
     if len (sys.argv) < 2:
